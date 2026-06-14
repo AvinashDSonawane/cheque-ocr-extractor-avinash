@@ -82,8 +82,8 @@ project/
 
 ```bash
 # Clone the repo
-git clone https://github.com/AvinashDSonawane/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/AvinashDSonawane/cheque-ocr-extractor-avinash.git
+cd cheque-ocr-extractor-avinash
 
 # Install dependencies
 pip install -r requirements.txt
